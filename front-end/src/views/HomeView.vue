@@ -10,7 +10,7 @@
     <div class="footer-item">
       <a
         id="link-footer-1"
-        href="https://github.com/perrierr/Creative-Project-3"
+        href="https://github.com/perrierr/museum-lab.git"
       >
         <h1>Source</h1>
       </a>
